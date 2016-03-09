@@ -27,3 +27,11 @@ YAPILANLAR;
    -Intelij IDEA dan tomcat tanımlandı .
    -VCS->import into vertion Control ->share project on github diyerek gerekli alanlara isimler verilip projenın dosyalarını github hesabına HelloWorldDeneme1 diye gönderdik.
    
+   maven porjects den package dosyasına asağıdakı kodu yazdıktan sonra tekrar derledik.
+   
+ <packaging>war</packaging>
+ 
+ var dosyasını da githuba attık.
+ 
+ 
+ mave
