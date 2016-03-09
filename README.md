@@ -31,3 +31,4 @@ YAPILANLAR;
    
  <packaging>war</packaging>
   ve ıntelij IDEA da var dosyasını olusturdum.
+  olusturdugum var dosyasını ubuntu server a attım .
