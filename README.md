@@ -30,8 +30,4 @@ YAPILANLAR;
    maven porjects den package dosyasına asağıdakı kodu yazdıktan sonra tekrar derledik.
    
  <packaging>war</packaging>
- 
- var dosyasını da githuba attık.
- 
- 
- mave
+  ve ıntelij IDEA da var dosyasını olusturdum.
